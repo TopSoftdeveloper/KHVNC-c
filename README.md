@@ -56,11 +56,9 @@ All without disrupting the user on the physical console.
 [![Watch Demo](https://img.icons8.com/ios-filled/100/000000/play-button-circled.png)](./open_chrome.mp4)
 
 
-## 🔄 Python Version (Coming Soon)
+## 🔄 Python Version 
 
-We are working on converting this HVNC concept into a **Python-based version** for cross-platform support and easier integration with automation tools.
-
-Stay tuned!
+Python version of client is available.
 
 ---
 
