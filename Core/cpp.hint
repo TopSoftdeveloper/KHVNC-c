@@ -1,0 +1,2 @@
+#define CORE_API __declspec(dllexport)
+#define CORE_API __declspec(dllimport)
