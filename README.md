@@ -2,10 +2,11 @@
 
 **KHVNC** is a remote desktop solution designed for educational and research purposes. Unlike traditional remote desktop software such as AnyDesk, TeamViewer, or VNC, KHVNC allows you to create and interact with a **hidden virtual desktop session** on a remote machine. This ensures that user activity does not interfere with the physical screen of the remote system.
 
-- Related Project
+**Related Project**
 - https://github.com/WKL-Sec/HiddenDesktop
 - https://github.com/Meltedd/HVNC
 
+**Advanced Features**
 - Perfectly works on modern windows 11
 - Python client is also developed
 
