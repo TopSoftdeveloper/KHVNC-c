@@ -71,4 +71,5 @@ Have questions or want to contribute?
 ---
 
 ## 🧠 Related Keywords
-Virtual Screen, Windows, Remote Control, Hide, Hidden
+Virtual Screen, Windows, Remote Control, Hide, Hidden, HiddenDesktop, RemoteHiddenDesktop, VNC, Virtual Desktop
+
